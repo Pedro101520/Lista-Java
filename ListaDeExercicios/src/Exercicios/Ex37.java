@@ -39,6 +39,6 @@ public class Ex37 {
 			System.out.println("Opção inválida");
 		}
 		
-		System.out.println("Seu novo salário seá de: " + sal);
+		System.out.println("Seu novo salário será de: " + sal);
 	}
 }
